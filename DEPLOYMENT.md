@@ -12,7 +12,7 @@
 |-----|----------|
 | Họ và tên | Nguyễn Tuấn Vũ |
 | Mã học viên | 2A202601666 |
-| Repo | https://github.com/bigbox1304/K4-Day12-Cloud-Services-And-Deployment |
+| Repo | https://github.com/bigbox1304/K4-DAY12-2A202601666-NguyenTuanVu |
 
 ## Service
 
