@@ -53,7 +53,7 @@ jobs:
         run: npm install --global @railway/cli@5.35.0
 
       - name: Deploy
-        run: railway up --ci --yes --project 0de72d90-8955-429d-96db-b18b19ff15fa --service chat
+        run: railway up --ci --yes --project 0de72d90-8955-429d-96db-b18b19ff15fa --environment production --service chat
 
       - name: Smoke test
         run: |
