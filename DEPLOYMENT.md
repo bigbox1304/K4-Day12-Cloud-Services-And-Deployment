@@ -85,8 +85,9 @@ Rate limit → các request vượt ngưỡng trả 429
 
 Đặt ảnh trong thư mục `screenshots/`:
 
-- `screenshots/dashboard.png` — trang quản lý service trên platform
-- `screenshots/healthz.png` — kết quả gọi `/healthz` từ trình duyệt hoặc curl
+- `screenshots/dashboard.png` — trang quản lý service trên Railway, deployment thành công
+- `screenshots/healthz.png` — kết quả gọi `/healthz` từ trình duyệt
+- `screenshots/ci-cd.png` — GitHub Actions chạy thành công Test, Build Docker và Deploy Railway
 
 ---
 
